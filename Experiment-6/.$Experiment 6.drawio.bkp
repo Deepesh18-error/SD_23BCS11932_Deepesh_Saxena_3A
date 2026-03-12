@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
   <diagram name="Page-1" id="uDtA_NTuwfqOlN8mKpM3">
-    <mxGraphModel dx="2295" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2716" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -551,11 +551,8 @@
         <mxCell id="zku9vN85Gvr767v2FHRn-168" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Video (Document DB)&lt;br&gt;- Video_id&lt;br&gt;- user_id&lt;br&gt;- video_type&lt;br&gt;- content_text&lt;br&gt;- media_url&lt;br&gt;- thumbnail_url&lt;br&gt;- like_count&lt;br&gt;-share_count&lt;br&gt;- comment_ount&lt;br&gt;- other meta data" vertex="1">
           <mxGeometry height="170" width="140" x="1243.1999999999998" y="1790.5" as="geometry" />
         </mxCell>
-        <mxCell id="LPVYmixy-P6V0Xu_p3Nz-1" edge="1" parent="1" source="zku9vN85Gvr767v2FHRn-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zku9vN85Gvr767v2FHRn-228" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zku9vN85Gvr767v2FHRn-169" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Managed_Instance_Apache_Cassandra.svg;" value="" vertex="1">
-          <mxGeometry height="68" width="68" x="1058.7200000000003" y="1881.5" as="geometry" />
+          <mxGeometry height="68" width="68" x="1057.7200000000003" y="1852.5" as="geometry" />
         </mxCell>
         <mxCell id="zku9vN85Gvr767v2FHRn-170" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Write Ops Fast" vertex="1">
           <mxGeometry height="30" width="100" x="1044.1999999999998" y="1925.5" as="geometry" />
@@ -698,7 +695,7 @@
           <mxGeometry height="70" width="120" x="698.7200000000003" y="2250.5" as="geometry" />
         </mxCell>
         <mxCell id="zku9vN85Gvr767v2FHRn-228" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Video DB" vertex="1">
-          <mxGeometry height="30" width="70" x="1057.7200000000005" y="1842.6" as="geometry" />
+          <mxGeometry height="30" width="70" x="1056.4800000000005" y="1822.5" as="geometry" />
         </mxCell>
         <mxCell id="zku9vN85Gvr767v2FHRn-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Filtering Videos&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="731.8100000000004" y="2053.3500000000004" as="geometry" />
